@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Our Story
+  about_item :
+  - icon : ti-home # themify icon pack : https://themify.me/themify-icons
+    title : Founded at UCLA
+    content : What started as a student organization at UCLA in 2017 has evolved into a nonprofit organization that strives to reach high school and college students throughout Los Angeles County.
+
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : Community Oriented
+    content : Psypher blends community-based research and emerging technologies to develop youth-centered wellness programs that embrace the expressive arts.
+
+  - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+    title : Non-Profit
+    content :  We have hosted over 60 workshops, serving more than 1,300 youth in our efforts to create a standard for wellness education that can be introduced to students nationwide.

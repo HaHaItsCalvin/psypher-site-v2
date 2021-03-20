@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/full_team_cover.webp"
+  bg_image : "images/backgrounds/full_team_cover.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "STEP OUT. SPEAK UP."
+  content : "We are uplifting youth voices to redefine the conversation around mental wellness. "
+  button:
+    enable : true
+    label : "Let's Psypher"
+    link : "#services"

@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/youth_banner.jpg
+  image_webp : images/about/youth_banner.webp
+  title : We Empower Youth Voices
+  content : "Psypher is dedicated towards uplifting the voices of teenage and youth (13-25) by facilitating collaboration between youth & community partners."
+  feature_item : 
+      # feature item loop
+    - title : Digital Facilitation
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : We collaborate & facilitate workshops through digital mediums such as Zoom.
+      
+      # feature item loop
+    - title : Customizable Workshops
+      icon : ti-shine # themify icon pack : https://themify.me/themify-icons
+      content : We carefully design workshops to meet the needs of our partners & attendees.
+
+      # feature item loop
+    - title : Amplify
+      icon : ti-microphone # themify icon pack : https://themify.me/themify-icons
+      content : Through our Youth Advisory Board, we train youth to be leaders in their communities.
+      
+      # feature item loop
+    - title : Research
+      icon : ti-clipboard # themify icon pack : https://themify.me/themify-icons
+      content : We're conducting a large-scale research survey centered around thousands of youth in Los Angeles County.
