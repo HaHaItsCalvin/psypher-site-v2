@@ -3,6 +3,7 @@ baseURL = "https://examplesite.com"
 title = "Calvin's Site"
 # post pagination
 paginate = "6"
+theme = "meghna-hugo"
 # post excerpt
 summaryLength = "15"
 # disqus short name
