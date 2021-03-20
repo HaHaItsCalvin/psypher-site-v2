@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "/"
 title = "Calvin's Site"
 # post pagination
 paginate = "6"
