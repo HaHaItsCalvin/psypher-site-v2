@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "Calvin's Site"
+title = "Psypher LA"
 # post pagination
 paginate = "6"
 theme = "meghna-hugo"
@@ -73,27 +73,19 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/psypherLAofficial"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/channel/UC1OPKweUr8nS75zKuO_FMeA"
+
+[[params.social]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/psypherla/"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/psypher-la/about/"
 
 ################################ English Language ########################
 [Languages.en]

@@ -3,12 +3,17 @@ team:
   enable : true
   title : Our Team
   team_member :
-    # team member loop
-    - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name: Megan Lau
+      role: Board Member
+      image: "images/team/Megan.jpg"
+      quote:  There isn’t anything else like Psypher. We start where
+              it matters - with the youth. The stages of growing up
+              impact who we are, how we are, and what we become;
+              therefore, being able to provide an insightful wellness
+              education allows us to start those conversations at a
+              young age. I’m blessed and grateful to be part of this
+              team by spreading the word about what we do and the
+              people we impact through the lens of a camera.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -18,13 +23,19 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
-    # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
-      designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+
+    - name: Mattew Diep
+      role: Executive Director
+      image: "images/team/Matthew.jpg"
+      quote:  My favorite part about working with Psypher
+              is hearing the unique perspectives that youth
+              bring to the table. It’s empowering to see
+              these young people engaging in discussions
+              about wellness and watching their growth
+              over the course of our workshops. I also get
+              to work with such an incredibly passionate,
+              creative, and down-to-earth team to make it
+              all happen!
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -34,29 +45,13 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
-    # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+
+    - name: Calvin Ha
+      role: Board Member
+      image: "images/team/Calvin.jpg"
+      quote:  I’m proud to be a part of Psypher’s mission of educating & empowering youth. Each day, 
+              I’m thankful to collaborate with inspiring individuals, and I’m psyched to
+              blend the reach of technology with our mission of promoting wellness and building communities
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"

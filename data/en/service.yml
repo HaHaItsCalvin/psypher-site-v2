@@ -4,17 +4,17 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Youth Advisory Board
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Responsive Design
+    - name : Community Partnerships
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : Customized Workshops
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
@@ -24,11 +24,11 @@ service:
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Apps Development
+    - name : App Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Networking
+    - name : Research Insights
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

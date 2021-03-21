@@ -5,22 +5,46 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Grace Zhu
+      image : images/testimonials/GraceZhu.jpg
+      image_webp : images/testimonials/client.webp
+      profession : Director of Zero Below
+      content :  >-
+          "It brings together something many people struggle with alone and 
+          something that brings people together, so maybe the combination can help get
+          people more comfortable with the idea that they don’t have to struggle 
+          alone with any mental health concerns they may be facing."
       
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+    - name : Alexia Diaz
+      image : images/testimonials/AlexiaDiaz.jpg
+      image_webp : images/testimonials/AlexiaDiaz.webp
+      profession: Psypher Participant
+      content: >-
+        "Sometimes there is stuff that you feel is burdening
+        you, and it’s hard to put it into words. Sometimes
+        releasing it through a physical medium, through
+        your body, lets you release that without having to
+        say anything. That’s a cathartic experience."
+
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Danyel Moulton
+      image : images/testimonials/DanyelMoulton.jpg
+      image_webp : images/testimonials/DanyelMoulton.webp
+      profession: Director of V Mo & LFG Dance Crew
+      content : >-
+          “Sitting there in a classroom full of high schoolers and listening to the information that Psypher
+          taught made me wish that I had that information
+          when I was their age.” 
+        
+    # testimonial item loop
+    - name: David Slaney
+      profession: Director of Zero Below
+      image : images/testimonials/DavidSlaney.jpg
+      image_webp : images/testimonials/DavidSlaney.webp
+      content: >-
+        "My first experience with the program was fantastic.
+        In the dance industry, we are constantly judging,
+        evaluating, & analyzing our every move, so it was
+        nice to sit down to talk about these everyday things
+        that affect us and our mental health."

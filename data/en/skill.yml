@@ -2,25 +2,22 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  subtitle : We Collaborate, Therefore We Are.
+  content : Psypher is composed of a diverse team with expertise in areas such as community organizing, entertainment, youth advocacy, health care, and software development.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  Community Organizing
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
+    - name :  Health Care
       percent : 70%
       
     # skill item loop
-    - name :  Design
+    - name :  Software Development
       percent : 80%
       
-    - name :  IOS Development
-      percent : 95%
-      
     # skill item loop
-    - name :  Android Development
+    - name :  Entertainment
       percent : 75%
