@@ -5,7 +5,8 @@ team:
   team_member :
     - name: Megan Lau
       role: Board Member
-      image: "images/team/Megan.jpg"
+      image_webp: "images/team/Megan.webp"
+      # image: "images/team/Megan.jpg"
       quote:  There isn’t anything else like Psypher. We start where
               it matters - with the youth. The stages of growing up
               impact who we are, how we are, and what we become;
@@ -26,7 +27,8 @@ team:
 
     - name: Mattew Diep
       role: Executive Director
-      image: "images/team/Matthew.jpg"
+      image_webp: "images/team/Matthew.webp"
+      # image: "images/team/Matthew.jpg"
       quote:  My favorite part about working with Psypher
               is hearing the unique perspectives that youth
               bring to the table. It’s empowering to see
@@ -48,7 +50,8 @@ team:
 
     - name: Calvin Ha
       role: Board Member
-      image: "images/team/Calvin.jpg"
+      image_webp: "images/team/Calvin.webp"
+      # image: "images/team/Calvin.jpg"
       quote:  I’m proud to be a part of Psypher’s mission of educating & empowering youth. Each day, 
               I’m thankful to collaborate with inspiring individuals, and I’m psyched to
               blend the reach of technology with our mission of promoting wellness and building communities
