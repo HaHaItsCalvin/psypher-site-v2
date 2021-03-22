@@ -3,6 +3,7 @@ testimonial:
   enable : true
   bg_image : images/backgrounds/bg-testimonial.jpg
   bg_image_webp : images/backgrounds/bg-testimonial.webp
+  title: Our Testimonials
   testimonial_item :
     # testimonial item loop
     - name : Grace Zhu
