@@ -2,6 +2,8 @@
 about:
   enable : true
   title : Our Story
+  spotify: https://open.spotify.com/embed-podcast/episode/6nlPPAGbWMjbyR0onJe7tj
+  video: https://www.youtube.com/embed/yFQjM2kMWqY?modestbranding=1&rel=0
   about_item :
   - icon : ti-home # themify icon pack : https://themify.me/themify-icons
     title : Founded at UCLA
