@@ -48,7 +48,7 @@ logo = "images/logos/psypher_text_logo.png"
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Calvin"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-PSX1SXVRNZ" # Your ID
 # post share
 post_share = true
 
