@@ -3,6 +3,31 @@ team:
   enable : true
   title : Our Team
   team_member :
+    - name: Diane Bui
+      role: Board Member
+      image_webp: "images/team/Diane.webp"
+      # image: "images/team/Diane.jpg"
+      quote:  Psypher offers the youth community what I wish I had access
+              to while growing up. I am inspired by not only the insightful 
+              wellness education and resources Psypher provides to the community
+              but also the leadership opportunities and the safe spaces that 
+              amplify youth voices. I am incredibly grateful to be a part of 
+              this dynamic team of like-minded individuals who share the 
+              collective goal of advocating for youth and fostering wellness.
+              As an incoming medical student and aspiring physician, 
+              I look forward to building off my experiences with Psypher and 
+              am committed to practicing care that addresses all facets of 
+              patient wellness and health.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
     - name: Megan Lau
       role: Board Member
       image_webp: "images/team/Megan.webp"

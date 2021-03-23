@@ -1,34 +1,63 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Wellness Dimensions
   service_item :
     # service item loop
-    - name : Youth Advisory Board
+    - name : Emotional
+      icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+    # service item loop
+    - name : Intellectual
+      icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+    # service item loop
+    - name : Physical
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    
     # service item loop
-    - name : Community Partnerships
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+    - name : Environmental
+      icon : ti-map-alt # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    
     # service item loop
-    - name : Customized Workshops
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    - name : Social
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+    - name : Vocational
+      icon : ti-clipboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
     # service item loop
-    - name : App Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # - name : Youth Advisory Board
+    #   icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
-    # service item loop
-    - name : Research Insights
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # # service item loop
+    # - name : Community Partnerships
+    #   icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    # # service item loop
+    # - name : Customized Workshops
+    #   icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    # # service item loop
+    # - name : Graphic Design
+    #   icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    # # service item loop
+    # - name : App Development
+    #   icon : ti-package # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    # # service item loop
+    # - name : Research Insights
+    #   icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
